@@ -143,12 +143,6 @@ PROG__init              (int a_argc, char *a_argv[])
       DEBUG_PROG   yLOG_exitr    (__FUNCTION__, rce);
       return rce;
    }
-   /*> rc = FILE_init      ();                                                        <* 
-    *> DEBUG_PROG   yLOG_value    ("yFILE"     , rc);                                 <* 
-    *> --rce;  if (rc < 0) {                                                          <* 
-    *>    DEBUG_PROG   yLOG_exitr    (__FUNCTION__, rce);                             <* 
-    *>    return rce;                                                                 <* 
-    *> }                                                                              <*/
    /*---(setup yVIKEYS)------------------*/
    DEBUG_PROG   yLOG_note  ("prepare modes");
    /*> yVIKEYS_init   (MODE_GOD);                                                     <*/

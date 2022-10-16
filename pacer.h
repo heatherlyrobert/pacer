@@ -31,8 +31,8 @@
 
 #define     P_VERMAJOR  "2.--, relaunch a more streamlined version"
 #define     P_VERMINOR  "2.1-, get it working again"
-#define     P_VERNUM    "2.1a"
-#define     P_VERTXT    "switched it over to the new vi-keys"
+#define     P_VERNUM    "2.1b"
+#define     P_VERTXT    "cleaned interface and published to squarespace"
 
 #define     P_PRIORITY  "direct, simple, brief, vigorous, and lucid (h.w. fowler)"
 #define     P_PRINCIPAL "[grow a set] and build your wings on the way down (r. bradbury)"
